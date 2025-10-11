@@ -1,7 +1,9 @@
 ### IntelliJ IDEA ###
+.idea
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+desafio-estrutura-de-dados.iml
 
 ### Eclipse ###
 .apt_generated
